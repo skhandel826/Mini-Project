@@ -1,0 +1,1 @@
+This is a basic calculator web application built using HTML, CSS, and JavaScript. It's a mini project developed as part of my web development learning journey to build a strong foundation and gain hands-on experience with front-end technologies.
