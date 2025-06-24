@@ -9,4 +9,5 @@ Real-time display of input and result
 
 Keyboard-free button interface with responsive layout
 
-2.TO Do list 
+2. TO Do list 
+3. Calculator
