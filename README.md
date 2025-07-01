@@ -1,4 +1,4 @@
-1. Calculator
+**1. Calculator**
 This is a basic calculator web application built using HTML, CSS, and JavaScript. It's a mini project developed as part of my web development learning journey to build a strong foundation and gain hands-on experience with front-end technologies.
 
 🚀 Features:
@@ -11,11 +11,14 @@ Real-time display of input and result
 Keyboard-free button interface with responsive layout
 
 
+
 2. To Do list
    
    A simple and responsive To-Do List web app to add, delete, and manage daily tasks. Built using HTML, CSS, and JavaScript.
 
-3. Tic Tac Toe
+   
+
+4. Tic Tac Toe
    
    A classic Tic Tac Toe game built using HTML, CSS, and JavaScript. Features include player vs player mode, win/draw detection, game reset option, and interactive
 
