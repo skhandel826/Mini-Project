@@ -27,20 +27,3 @@ A simple and responsive To-Do List web app to add, delete, and manage daily task
 
 A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play against the computer and test your luck and logic in this classic game!
 
-🚀 Features
-🎨 Simple, clean, and responsive UI
-
-🎲 Random computer choice generation
-
-⚡ Instant result display
-
-🤖 Computer vs Player gameplay
-
-😊 Fun use of emojis for better experience
-
-🛠️ Technologies Used
-HTML - For structuring the webpage
-
-CSS - For styling and layout
-
-JavaScript - For game logic and interactivity
