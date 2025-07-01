@@ -13,9 +13,12 @@ Keyboard-free button interface with responsive layout
 
 2. To Do list
    
-   "A simple and responsive To-Do List web app to add, delete, and manage daily tasks. Built using HTML, CSS, and JavaScript."
+   A simple and responsive To-Do List web app to add, delete, and manage daily tasks. Built using HTML, CSS, and JavaScript.
 
-4. Tic Tac Toe
+3. Tic Tac Toe
    
    A classic Tic Tac Toe game built using HTML, CSS, and JavaScript. Features include player vs player mode, win/draw detection, game reset option, and interactive
 
+4.Rock Paper Scissors Game 
+
+A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play against the computer and test your luck and logic in this classic game!
